@@ -1,0 +1,6 @@
+verbose on
+mkdir /testes_em_lote
+cd /testes_em_lote
+mkdir subpasta
+ls
+verbose off
